@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script&family=Space+Grotesk:wght@400;500&display=swap');
 .one{display: flex; justify-content: space-between;
 align-items: center; background-color: black;}
 .getstarted{background-color: #ed661f;font-weight: 300;}
@@ -8,10 +9,10 @@ align-items: center; background-color: black;}
 .contact{color: white;}
 .login{color: white;}
 
-.two{display:flex;
-background-image: url(styles/assets/assets1/image1.png);background-position: center;
-background-repeat: no-repeat;
-}
+.two{display:flex; background-image:url(styles/assets/assets1/image1.png); background-position: center;
+    justify-content: space-between;}
+ .explore{ background-color: #ed661f;
+text-align: left;}
 
 
 .research{display: flex;
@@ -19,7 +20,7 @@ justify-items: center; justify-content:center;
 box-sizing: border-box; border: 10px black:}
 
 .three{display: flex; justify-content: space-between;
-    border-radius: 10px;
+    border-radius: 10px; margin: 20px;
 }
 .four{text-align: center; text-decoration: wavy; font-style: italic;}
 .most{text-align: left;
@@ -41,6 +42,11 @@ justify-content: space-between;}
 
 .read{text-align: right;}
 
+.slast{display: flex; background-color: black;
+color: white; margin: 50px;}
+.email{display:flex; box-sizing: margin: 0px; padding:20px; border: 50px; background color: white;
+
+ }
 
 
 
