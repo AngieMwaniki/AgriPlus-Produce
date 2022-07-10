@@ -9,7 +9,8 @@ align-items: center; background-color: black;}
 .contact{color: white;}
 .login{color: white;}
 
-.two{display:flex; background-image:url(styles/assets/assets1/image1.png); background-position: center;
+.two{display:flex; background-image:url(../styles/assets/assets1/image1.png); background-position: center; background-repeat: no-repeat;
+    background size: cover;
     justify-content: space-between;}
  .explore{ background-color: #ed661f;
 text-align: left;}
