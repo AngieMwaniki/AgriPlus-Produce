@@ -3,10 +3,19 @@ align-items: center; background-color: black;}
 .getstarted{background-color: #ed661f;font-weight: 300;}
 .name{color: white;}
 .homepage{color: white;}
-.about{color: white;}
+.about{color: white}
 .products{color: white;}
 .contact{color: white;}
 .login{color: white;}
+
+.two{display:flex: 
+ padding bottom:   80px;
+background-image: url("styles/assets/assets1/image1");
+background-position: center;
+background-repeat: no no-repeat ;
+background size: cover;
+padding bottom:
+150px;}
 
 
 
