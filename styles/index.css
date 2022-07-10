@@ -1,7 +1,13 @@
 .one{display: flex; justify-content: space-between;
 align-items: center; background-color: black;}
 .getstarted{background-color: #ed661f;font-weight: 300;}
-.name{}
+.name{color: white;}
+.homepage{color: white;}
+.about{color: white;}
+.products{color: white;}
+.contact{color: white;}
+.login{color: white;}
+
 
 
 
