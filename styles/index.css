@@ -1,5 +1,7 @@
-.one{display: flex;}
-
+.one{display: flex; justify-content: space-between;
+align-items: center; background-color: black;}
+.getstarted{background-color: #ed661f;font-weight: 300;}
+.name{}
 
 
 
