@@ -10,12 +10,13 @@ align-items: center; background-color: black;}
 
 .two{display:flex;
 background-image: url(styles/assets/assets1/image1.png);background-position: center;
-
+background-repeat: no-repeat;
 }
 
 
 .research{display: flex;
-justify-items: center; justify-content: space-between;}
+justify-items: center; justify-content:center;
+box-sizing: border-box; border: 10px black:}
 
 
 
