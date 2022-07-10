@@ -28,6 +28,13 @@ text-decoration: line-through; text-decoration: #ed661f;}
 .pic3456{display: flex;
 justify-content: space-between;}
 
+.newest{text-align: left;
+
+}
+
+.pic78910{ display: flex; justify-content: space-between;
+}
+ .see{ text-align: right;}
 
 
 
