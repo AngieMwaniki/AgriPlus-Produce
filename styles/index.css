@@ -18,7 +18,8 @@ background-repeat: no-repeat;
 justify-items: center; justify-content:center;
 box-sizing: border-box; border: 10px black:}
 
-.three{display: flex;
+.three{display: flex; justify-content: space-between;
+    border-radius: 10px;
 }
 
 
