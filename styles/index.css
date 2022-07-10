@@ -37,7 +37,7 @@ justify-content: space-between;}
 }
  .see{ text-align: right;}
 
- .hello{display: flex; justify-content: space-between; align-items: center;}
+ .hello :hover{display: flex;  background color: #ed661f; justify-content: space-between; align-items: center;}
 
 
 .read{text-align: right;}
