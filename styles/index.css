@@ -20,7 +20,7 @@ justify-items: center; justify-content:center;
 box-sizing: border-box; border: 10px black:}
 
 .three{display: flex; justify-content: space-between;
-    border-radius: 10px; margin: 20px;
+    border-radius: 10px; margin: 20px; 
 }
 .four{text-align: center; text-decoration: wavy; font-style: italic;}
 .most{text-align: left;
@@ -37,8 +37,8 @@ justify-content: space-between;}
 }
  .see{ text-align: right;}
 
- .hello :hover{display: flex;  background color: #ed661f; justify-content: space-between; align-items: center;}
-
+ .hello{display: flex; justify-content: space-between; align-items: center;}
+ .esteemed{box border: border: ;}
 
 .read{text-align: right;}
 
