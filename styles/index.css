@@ -8,16 +8,14 @@ align-items: center; background-color: black;}
 .contact{color: white;}
 .login{color: white;}
 
-.two{display:flex;}
+.two{display:flex;
+background-image: url(styles/assets/assets1/image1.png);background-position: center;
+
+}
 
 
-background-image:url("styles/assets/assets1/image1");
-background-position:center;
-background-repeat:no-repeat ;
-background size:cover;
-padding bottom:10px;}
-
-
+.research{display: flex;
+justify-items: center; justify-content: space-between;}
 
 
 
