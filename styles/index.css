@@ -21,7 +21,12 @@ box-sizing: border-box; border: 10px black:}
 .three{display: flex; justify-content: space-between;
     border-radius: 10px;
 }
+.four{text-align: center; text-decoration: wavy; font-style: italic;}
+.most{text-align: left;
+text-decoration: line-through; text-decoration: #ed661f;}
 
+.pic3456{display: flex;
+}
 
 
 
