@@ -36,8 +36,10 @@ justify-content: space-between;}
 }
  .see{ text-align: right;}
 
+ .hello{display: flex; justify-content: space-between; align-items: center;}
 
 
+.read{text-align: right;}
 
 
 
