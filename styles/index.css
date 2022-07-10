@@ -41,7 +41,7 @@ justify-content: space-between;}
 
 
 
-.last{display: flex;background-color: #ed661f;
+.last{display: flex;background-color:black; justify-content: space-between;
 
 }
 .END{float: inline-end;}
