@@ -41,7 +41,12 @@ justify-content: space-between;}
 
 
 
+
 .last{display: flex;background-color:black; justify-content: space-between;
 
 }
+.terms{color:white}
+.dairy{color: white;}
+.about{color: white;}
+
 .END{float: inline-end;}
